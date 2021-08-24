@@ -144,6 +144,11 @@
 - Wormo - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.wormo), [iOS](https://apps.apple.com/us/app/wormo-the-game/id1530797595) - Meet Wormo the gooey worm in this wonderful casual game! Think you can put wormo in the nest? Think again, it requires an extraordinary technique. 
 By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
+#### Kids
+
+<!--lint ignore double-link-->
+- Toddler Tractor - [Android](https://play.google.com/store/apps/details?id=gmbh.mkm.tractor_flame) - If your little one loves tractors, he/she will most definitely love this app. It's all about tractors. Drive threw the different levels to find more mini games and riddles to solve. Good graphics, no ADs and free to play! By [Jakob Kremsner](https://github.com/JKremsner)
+
 #### Metroidvania
 
 <!--lint ignore double-link-->
